@@ -1,4 +1,8 @@
+jupyterlab
+langdetect
+matplotlib
 pandas
 psycopg[binary]
 python-dotenv
 requests
+seaborn
